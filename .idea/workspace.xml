@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a360a1f-bc2e-40be-a286-ed450a1d208c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-    </list>
+    <list default="true" id="9a360a1f-bc2e-40be-a286-ed450a1d208c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +110,7 @@
       <updated>1617031394974</updated>
       <workItem from="1617031396136" duration="11644000" />
       <workItem from="1617107024195" duration="2978000" />
-      <workItem from="1617111372472" duration="2364000" />
+      <workItem from="1617111372472" duration="2564000" />
     </task>
     <task id="LOCAL-00001" summary="next step 3">
       <created>1617106311446</created>
