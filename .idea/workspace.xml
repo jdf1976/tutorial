@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a360a1f-bc2e-40be-a286-ed450a1d208c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/QuestionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/QuestionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +115,7 @@
       <workItem from="1617031396136" duration="11644000" />
       <workItem from="1617107024195" duration="2978000" />
       <workItem from="1617111372472" duration="2782000" />
-      <workItem from="1617116333852" duration="1712000" />
+      <workItem from="1617116333852" duration="2025000" />
     </task>
     <task id="LOCAL-00001" summary="next step 3">
       <created>1617106311446</created>
